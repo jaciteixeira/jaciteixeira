@@ -7,7 +7,7 @@
 </h3>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Estagiária ne empresa Vivo - Telefônica Brasil
+- 💻 Estagiária na empresa Vivo - Telefônica Brasil
 - 🌱 Estou sempre em busca de desafios e oportunidades para aprender e crescer.
 
 
