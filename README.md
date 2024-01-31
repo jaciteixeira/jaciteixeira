@@ -6,8 +6,9 @@
 </h3>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Estagiária na empresa Vivo - Telefônica Brasil
+- 👩🏾‍💻 Estagiária na empresa Vivo - Telefônica Brasil
 - 🌱 Estou sempre em busca de desafios e oportunidades para aprender e crescer.
+- 💻 Visite o meu portfolio: <a href="https://portfolio-jaci.vercel.app/" target="_blank">AQUI !</a>
 ##
 <p>💌 Sinta-se a vontade para entrar em contato: ⤵️</p>
 
