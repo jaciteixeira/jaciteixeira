@@ -5,15 +5,15 @@
   Olá 👋🏾 Eu sou Jaci Teixeira 
 </h3>
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 👩🏾‍💻 Estagiária na empresa Vivo - Telefônica Brasil
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas pela FIAP
+- 👩🏾‍💻 Full Stack Developer na Plusoft
 - 🌱 Estou sempre em busca de desafios e oportunidades para aprender e crescer.
 - 💻 Visite o meu portfolio: <a href="https://portfolio-jaci.vercel.app/" target="_blank">AQUI !</a>
 ##
 <p>💌 Sinta-se a vontade para entrar em contato: ⤵️</p>
 
 <div> 
-  <a href="https://www.linkedin.com/in/jaci-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jaciteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jaci9306@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
