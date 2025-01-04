@@ -2,12 +2,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa2f2&height=120&section=header"/>
 
 <h3 align="left">
-  Olá 👋🏾 Eu sou Jaci Teixeira 
+  Olá 👋🏾 Eu sou a Jaci Teixeira 
 </h3>
 
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas pela FIAP
-- 👩🏾‍💻 Full Stack Developer na Plusoft
-- 🌱 Estou sempre em busca de desafios e oportunidades para aprender e crescer.
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas pela FIAP.
+- 📒 Pós-graduanda em Software Architecture tambem pela FIAP.
+- 👩🏾‍💻 Full Stack Developer na Plusoft.
+- 🌱 Estou sempre em busca de desafios que me permitam aprender e evoluir.
 - 💻 Visite o meu portfolio: <a href="https://portfolio-jaci.vercel.app/" target="_blank">AQUI !</a>
 ##
 <p>💌 Sinta-se a vontade para entrar em contato: ⤵️</p>
